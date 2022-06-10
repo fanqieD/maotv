@@ -4,6 +4,7 @@
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
 乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
 水蜜桃,http://51smt4.xyz/api.php/provide/vod/at/xml,解析
+三级片资源,https://caiji.jjjzy.cc/inc/api.php,解析
 秀色资源,https://api.xiuseapi.com/api.php/provide/vod/at/xml,解析
 探探资源,https://apittzy.com/api.php/provide/vod/at/xml,解析
 色猫资源,https://api.maozyapi.com/inc/api.php,解析
@@ -68,6 +69,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 大地资源,https://dadiapi.com/api.php,解析
 CK资源,http://www.feifei67.com/api.php/provide/vod/at/xml,解析
 老鸭资源,https://api.apilyzy.com/api.php/provide/vod/at/xml,解析
+老鸭TV,https://laoyatv.com/api.php/provide/vod/at/xml,解析
 花椒资源,https://apihjzy.com/api.php/provide/vod/at/xml,解析
 辣椒资源,https://apilj.com/api.php/provide/vod/at/xml/,解析
 乐播资源,https://lbapi9.com/api.php/provide/vod/at/xml,解析
